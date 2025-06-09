@@ -31,7 +31,7 @@ An interactive "Cat or Croissant" game built in Power BI, inspired by Workout We
 - **M Query** for data preprocessing
 
 ### 🎨 Design Elements
-- Custom button graphics (created in [Tool Name])
+- Custom button graphics (created in MS Powerpoint)
 - Themed color palette
 - Animated transitions
 
@@ -41,18 +41,3 @@ An interactive "Cat or Croissant" game built in Power BI, inspired by Workout We
 3. Avoid selecting any croissants 🥐
 4. Win by selecting all cats with no croissants
 5. Use "Reset" to start a new game
-
-## 🚀 Getting Started
-1. Clone this repository
-2. Open `CatOrCroissant.pbix` in Power BI Desktop
-3. Refresh the dataset connection
-4. Enter "Play Mode" (View > Page View > Actual Size)
-
-## 📈 Advanced Features to Implement
-Here are some enhancements you could add:
-
-1. **Scoring System**  
-   ```dax
-   Score = 
-   VAR CatsSelected = COUNTROWS(FILTER('Table', [IsCat] = TRUE && [IsSelected] = TRUE))
-   RETURN CatsSelected * 100
