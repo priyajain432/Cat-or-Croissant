@@ -41,3 +41,6 @@ An interactive "Cat or Croissant" game built in Power BI, inspired by Workout We
 3. Avoid selecting any croissants 🥐
 4. Win by selecting all cats with no croissants
 5. Use "Reset" to start a new game
+
+## Live Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiNjE2NzgzYjItYzllZC00ZmU0LTg5MGItNmZlZjQ5N2RlNGZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
