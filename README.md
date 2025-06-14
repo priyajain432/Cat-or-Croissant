@@ -42,3 +42,11 @@ An interactive "Cat or Croissant" game built in Power BI, inspired by Workout We
 4. Win by selecting all cats with no croissants
 5. Use "Reset" to start a new game
 
+## 🖼️ Game Screenshots
+
+### 🎮 Game Home Page
+![Game Home Page](https://github.com/priyajain432/Cat-or-Croissant/blob/0ac365ba344ba3f3974856c8b091cef4ed479be4/Game%20Home%20Page.png?raw=true)
+
+### 🧩 Game Screen (During Play)
+![Game Screen](https://github.com/priyajain432/Cat-or-Croissant/blob/0ac365ba344ba3f3974856c8b091cef4ed479be4/Game%20Screen.png?raw=true)
+
