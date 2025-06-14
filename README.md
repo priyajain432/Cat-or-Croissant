@@ -1,4 +1,4 @@
-# 🐱 or 🥐 Power BI Game Challenge
+# Cat 🐱 or Croissant 🥐 Power BI Game Challenge
 
 ![Game Screenshot](./assets/game-screenshot.png) *(replace with your actual screenshot)*
 
